@@ -1,4 +1,4 @@
-package trinhanh.com.javabasic.kieudulieu;
+package trinhanh.com.javabasic.LearnJavaBasic.kieudulieu;
 
 public class Kieudulieu1 {
     static String bankName ="Vietinbank";

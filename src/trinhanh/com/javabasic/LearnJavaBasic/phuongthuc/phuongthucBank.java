@@ -1,6 +1,6 @@
-package trinhanh.com.javabasic.phuongthuc;
+package trinhanh.com.javabasic.LearnJavaBasic.phuongthuc;
 
-import trinhanh.com.javabasic.kieudulieu.Bank;
+import trinhanh.com.javabasic.LearnJavaBasic.kieudulieu.Bank;
 
 public class phuongthucBank {
     public static void main(String[] args) {

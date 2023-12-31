@@ -1,4 +1,4 @@
-package trinhanh.com.javabasic.kieudulieu;
+package trinhanh.com.javabasic.LearnJavaBasic.kieudulieu;
 
 public class Bank {
     static int balance = 237883; //biến static trong class khác cùng package

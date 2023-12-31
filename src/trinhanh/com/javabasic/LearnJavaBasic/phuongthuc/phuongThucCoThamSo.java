@@ -1,4 +1,4 @@
-package trinhanh.com.javabasic.phuongthuc;
+package trinhanh.com.javabasic.LearnJavaBasic.phuongthuc;
 
 public class phuongThucCoThamSo {
     static float interest_rate =7.3f;

@@ -1,4 +1,4 @@
-package trinhanh.com.javabasic.Variables;
+package trinhanh.com.javabasic.LearnJavaBasic.Variables;
 
 
 public class Sinhvien {
